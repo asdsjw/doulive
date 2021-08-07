@@ -2,7 +2,7 @@
 
 开发者:Yezhong Sun
 
-联系邮箱:ellaw1981@hotmail.com
+联系邮箱:mp3it@hotmail.com
 
 最新版本1.1.4
 
